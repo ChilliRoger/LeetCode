@@ -1,7 +1,4 @@
 class Solution {
-    public boolean judgePoint24(int[] cards) {
-        
-    }class Solution {
     final double EPS = 1e-6;
 
     public boolean judgePoint24(int[] cards) {
@@ -41,5 +38,4 @@ class Solution {
         if (Math.abs(a) > EPS) res.add(b / a);
         return res;
     }
-}
 }
