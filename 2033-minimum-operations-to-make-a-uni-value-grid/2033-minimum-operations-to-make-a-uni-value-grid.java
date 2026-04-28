@@ -1,34 +1,33 @@
 class Solution {
-
     public int minOperations(int[][] grid, int x) {
-        // Create a list to store all the numbers from the grid
-        ArrayList<Integer> numsArray = new ArrayList<>();
-        int result = 0;
+        List<Integer> arr = new ArrayList<>();
 
-        // Flatten the grid into numsArray
-        for (int row = 0; row < grid.length; row++) {
-            for (int col = 0; col < grid[0].length; col++) {
-                numsArray.add(grid[row][col]);
+        // flatten grid
+        for(int[] row : grid){
+            for(int v : row){
+                arr.add(v);
             }
         }
 
-        // Sort numsArray in non-decreasing order to easily find the median
-        Collections.sort(numsArray);
-
-        int length = numsArray.size();
-        // Store the median element as the final common value
-        int finalCommonNumber = numsArray.get(length / 2);
-
-        // Iterate through each number in numsArray
-        for (int number : numsArray) {
-            // If the remainder when divided by x is different, return -1
-            if (number % x != finalCommonNumber % x) {
+        // check divisibility
+        int base = arr.get(0);
+        for(int v : arr){
+            if(Math.abs(v - base) % x != 0)
                 return -1;
-            }
-            // Add the number of operations required to make the current number equal to finalCommonNumber
-            result += Math.abs(finalCommonNumber - number) / x;
         }
 
-        return result;
+        // sort
+        Collections.sort(arr);
+
+        // median
+        int median = arr.get(arr.size()/2);
+
+        // count operations
+        int ops = 0;
+        for(int v : arr){
+            ops += Math.abs(v - median) / x;
+        }
+
+        return ops;
     }
 }
