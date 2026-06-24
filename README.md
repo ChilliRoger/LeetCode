@@ -16,6 +16,7 @@
 | [1340-jump-game-v](https://github.com/ChilliRoger/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/ChilliRoger/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/ChilliRoger/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -243,6 +244,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ChilliRoger/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ChilliRoger/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ChilliRoger/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/ChilliRoger/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
