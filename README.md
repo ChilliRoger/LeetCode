@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChilliRoger/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ChilliRoger/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/ChilliRoger/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/ChilliRoger/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChilliRoger/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ChilliRoger/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -187,6 +188,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ChilliRoger/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChilliRoger/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0396-rotate-function](https://github.com/ChilliRoger/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ChilliRoger/LeetCode/tree/main/0788-rotated-digits/) | Medium |
@@ -402,6 +404,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ChilliRoger/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ChilliRoger/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ChilliRoger/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Depth-First Search
