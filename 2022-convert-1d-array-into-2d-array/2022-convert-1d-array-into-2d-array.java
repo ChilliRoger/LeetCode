@@ -2,7 +2,7 @@ class Solution {
     public int[][] construct2DArray(int[] original, int m, int n) {
         int[][] arr = new int[m][n];
         if(m*n!=original.length){
-            return new int[][]{};
+            return new int[0][0];
         }
         else{
             int c=0;
