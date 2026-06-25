@@ -15,6 +15,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ChilliRoger/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0268-missing-number](https://github.com/ChilliRoger/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/ChilliRoger/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ChilliRoger/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1306-jump-game-iii](https://github.com/ChilliRoger/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -119,6 +120,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ChilliRoger/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
