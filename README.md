@@ -47,6 +47,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ChilliRoger/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ChilliRoger/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ChilliRoger/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ChilliRoger/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/ChilliRoger/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ChilliRoger/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -127,6 +128,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ChilliRoger/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ChilliRoger/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/ChilliRoger/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChilliRoger/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
