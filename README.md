@@ -153,6 +153,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/ChilliRoger/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/ChilliRoger/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/ChilliRoger/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ChilliRoger/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -401,6 +402,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/ChilliRoger/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/ChilliRoger/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0344-reverse-string](https://github.com/ChilliRoger/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChilliRoger/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/ChilliRoger/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
