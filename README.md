@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ChilliRoger/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChilliRoger/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChilliRoger/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ChilliRoger/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/ChilliRoger/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -408,6 +409,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ChilliRoger/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChilliRoger/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/ChilliRoger/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/ChilliRoger/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/ChilliRoger/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
