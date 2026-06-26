@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ChilliRoger/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChilliRoger/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ChilliRoger/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/ChilliRoger/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -381,6 +382,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ChilliRoger/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/ChilliRoger/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/ChilliRoger/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1340-jump-game-v](https://github.com/ChilliRoger/LeetCode/tree/main/1340-jump-game-v/) | Hard |
@@ -404,6 +406,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ChilliRoger/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/ChilliRoger/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/ChilliRoger/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/ChilliRoger/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
