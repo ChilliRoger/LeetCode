@@ -13,11 +13,12 @@ class Solution {
         );
         int ans = 0;
         for(int i = s.length() - 1; i >= 0; i--){
-            if(i > 0 && mp.get(s.charAt(i - 1)) < mp.get(s.charAt(i))){
-                ans += mp.get(s.charAt(i)) - mp.get(s.charAt(i - 1));
+            Integer val = mp.get(s.charAt(i));
+            if(i > 0 && mp.get(s.charAt(i - 1)) < val){
+                ans += val - mp.get(s.charAt(i - 1));
                 i--;
             } else {
-                ans += mp.get(s.charAt(i));
+                ans += val;
             }
         }
 
