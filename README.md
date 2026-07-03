@@ -325,6 +325,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ChilliRoger/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/ChilliRoger/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/ChilliRoger/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/ChilliRoger/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChilliRoger/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -481,6 +482,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ChilliRoger/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/ChilliRoger/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ChilliRoger/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ChilliRoger/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ChilliRoger/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
