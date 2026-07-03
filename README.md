@@ -207,6 +207,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ChilliRoger/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/ChilliRoger/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ChilliRoger/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -326,6 +327,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/ChilliRoger/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ChilliRoger/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/ChilliRoger/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ChilliRoger/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/ChilliRoger/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChilliRoger/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -373,6 +375,7 @@
 | [0013-roman-to-integer](https://github.com/ChilliRoger/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/ChilliRoger/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0204-count-primes](https://github.com/ChilliRoger/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/ChilliRoger/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ChilliRoger/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/ChilliRoger/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ChilliRoger/LeetCode/tree/main/0788-rotated-digits/) | Medium |
