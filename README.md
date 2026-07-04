@@ -543,6 +543,7 @@
 | [0002-add-two-numbers](https://github.com/ChilliRoger/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChilliRoger/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/ChilliRoger/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ChilliRoger/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
