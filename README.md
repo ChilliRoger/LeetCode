@@ -462,6 +462,7 @@
 | [0283-move-zeroes](https://github.com/ChilliRoger/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/ChilliRoger/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChilliRoger/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChilliRoger/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/ChilliRoger/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -541,6 +542,7 @@
 | [0002-add-two-numbers](https://github.com/ChilliRoger/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChilliRoger/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/ChilliRoger/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
