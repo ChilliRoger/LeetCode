@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ChilliRoger/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/ChilliRoger/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChilliRoger/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChilliRoger/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -274,6 +275,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ChilliRoger/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/ChilliRoger/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/ChilliRoger/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ChilliRoger/LeetCode/tree/main/0268-missing-number/) | Easy |
