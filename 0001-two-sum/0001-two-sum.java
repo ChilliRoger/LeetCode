@@ -10,7 +10,6 @@ class Solution {
                 return new int[] { i, map.get(complement) };
             }
         }
-        // In case there is no solution, return an empty array
         return new int[] {};
     }
 }
