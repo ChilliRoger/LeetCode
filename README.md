@@ -26,6 +26,7 @@
 | [0766-toeplitz-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ChilliRoger/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/ChilliRoger/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ChilliRoger/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/ChilliRoger/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/ChilliRoger/LeetCode/tree/main/1340-jump-game-v/) | Hard |
@@ -437,6 +438,7 @@
 | [0075-sort-colors](https://github.com/ChilliRoger/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/ChilliRoger/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ChilliRoger/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/ChilliRoger/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/ChilliRoger/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ChilliRoger/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ChilliRoger/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
