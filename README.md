@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/ChilliRoger/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ChilliRoger/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/ChilliRoger/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/ChilliRoger/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ChilliRoger/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ChilliRoger/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -240,6 +241,7 @@
 | [0002-add-two-numbers](https://github.com/ChilliRoger/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/ChilliRoger/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0486-predict-the-winner](https://github.com/ChilliRoger/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ChilliRoger/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -271,6 +273,7 @@
 | [0198-house-robber](https://github.com/ChilliRoger/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ChilliRoger/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/ChilliRoger/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/ChilliRoger/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/ChilliRoger/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ChilliRoger/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ChilliRoger/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -440,6 +443,7 @@
 | [0231-power-of-two](https://github.com/ChilliRoger/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ChilliRoger/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/ChilliRoger/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/ChilliRoger/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ChilliRoger/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/ChilliRoger/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ChilliRoger/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -701,4 +705,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChilliRoger/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/ChilliRoger/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
