@@ -9,5 +9,5 @@ class Solution {
             if(!set.contains(k*i))
             return (k*i);
         }
-  return k*2;  }
+  return 0;  }
 }
