@@ -26,6 +26,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ChilliRoger/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ChilliRoger/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0835-image-overlap](https://github.com/ChilliRoger/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ChilliRoger/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/ChilliRoger/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -188,6 +189,7 @@
 | [0048-rotate-image](https://github.com/ChilliRoger/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0835-image-overlap](https://github.com/ChilliRoger/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/ChilliRoger/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
