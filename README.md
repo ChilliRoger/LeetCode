@@ -253,6 +253,7 @@
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ChilliRoger/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ChilliRoger/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ChilliRoger/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChilliRoger/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ChilliRoger/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ChilliRoger/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ChilliRoger/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -724,6 +725,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChilliRoger/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/ChilliRoger/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChilliRoger/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChilliRoger/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ChilliRoger/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/ChilliRoger/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 ## Divide and Conquer
@@ -913,4 +915,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChilliRoger/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChilliRoger/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
