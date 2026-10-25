@@ -32,6 +32,7 @@
 | [0874-walking-robot-simulation](https://github.com/ChilliRoger/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/ChilliRoger/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/ChilliRoger/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ChilliRoger/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ChilliRoger/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ChilliRoger/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -215,6 +216,7 @@
 | [0766-toeplitz-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/ChilliRoger/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/ChilliRoger/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/ChilliRoger/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -562,6 +564,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ChilliRoger/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChilliRoger/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -812,6 +815,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChilliRoger/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChilliRoger/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ChilliRoger/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ChilliRoger/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/ChilliRoger/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -853,6 +857,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ChilliRoger/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/ChilliRoger/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/ChilliRoger/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/ChilliRoger/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/ChilliRoger/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ChilliRoger/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
