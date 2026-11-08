@@ -36,6 +36,7 @@
 | [1140-stone-game-ii](https://github.com/ChilliRoger/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ChilliRoger/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ChilliRoger/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ChilliRoger/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ChilliRoger/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/ChilliRoger/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -229,6 +230,7 @@
 | [0867-transpose-matrix](https://github.com/ChilliRoger/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ChilliRoger/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ChilliRoger/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ChilliRoger/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -591,6 +593,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/ChilliRoger/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ChilliRoger/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChilliRoger/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -857,6 +860,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChilliRoger/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ChilliRoger/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ChilliRoger/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ChilliRoger/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/ChilliRoger/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -879,6 +883,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ChilliRoger/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ChilliRoger/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/ChilliRoger/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/ChilliRoger/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChilliRoger/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -901,6 +906,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/ChilliRoger/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/ChilliRoger/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/ChilliRoger/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ChilliRoger/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/ChilliRoger/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ChilliRoger/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChilliRoger/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
